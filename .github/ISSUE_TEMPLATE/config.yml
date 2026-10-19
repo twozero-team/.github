@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and help
+    url: https://discord.gg/zyTzVdAaSV
+    about: Ask the team and other TouchDesigner artists in Discord.
+  - name: Docs
+    url: https://twozero.ai/docs
+    about: Install, MCP setup, troubleshooting.
